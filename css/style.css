@@ -1,0 +1,12 @@
+table, thead, tbody, tr, th, td {
+  background-color: transparent !important;
+
+}
+
+th {
+  color: #fff !important;
+}
+
+.table{
+  max-height: 50vh;
+}
